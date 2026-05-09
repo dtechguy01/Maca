@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍🍳 Chef's Recommendation (The Dev Stack)
-*Mixing logic with aesthetics since [Year]*
+*Mixing logic with aesthetics since 2021*
 
 ```javascript
 /* The secret sauce for a perfect project */
